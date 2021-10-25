@@ -1,0 +1,118 @@
+{
+  "team": [
+    {
+      "id": "11801152",
+      "name": "Chitvan GArg",
+      "imageSrc": "assets/img/team/chitvan.JPG",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "subtitle": "Deputy Students Coordinator"
+    },
+    {
+      "id": "11801152",
+      "name": "Chitvan GArg",
+      "imageSrc": "assets/img/team/chitvan.JPG",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "subtitle": "Deputy Students Coordinator"
+    }
+  ],
+  "events": [
+    { "id": "1", "name": "Chitvan garg", "href": "#", "subtitle": "any" }
+  ],
+  "gaming": [
+    { "id": "1", "name": "Chitvan garg", "href": "#", "subtitle": "any" }
+  ],
+  "notification": [
+    {
+      "eventName": "abcdrf",
+      "roomNumber": "210",
+      "robotSrc": "/assets/img/robots/robot1.gif",
+      "robotNum": "1",
+      "eventDay": "23",
+      "eventHour": "0",
+      "eventMinutes": "47"
+    }
+  ],
+  "imageGallary": [
+    { "gallarySrc": "assets/img/banner.jpg", "gallaryName": "img1" },
+    { "gallarySrc": "assets/img/banner.jpg", "gallaryName": "img1" }
+  ],
+  "schedule": [
+    {
+      "menu": "1",
+      "dayName": "First Day",
+      "date": "27",
+      "month": "Oct",
+      "year": "2021",
+      "details": {
+        "status": "active",
+        "author": {
+          "bool": true,
+          "imageSrc": "assets/img/team/chitvan.JPG",
+          "authName": "speaker",
+          "authInfo": "CyberSec Expert"
+        },
+        "title": "Wait is Over! Tech fest is back!",
+        "body": "lorem hooon mai",
+        "extra": [
+          { "title": "Link", "titleSrc": "http://chitvangarg" },
+          { "title": "Link2", "titleSrc": "http://chitvangarg2" },
+          { "title": "Link", "titleSrc": "http://chitvangarg" }
+        ]
+      }
+      
+    },
+    {
+      "menu": "1",
+      "dayName": "First Day",
+      "date": "27",
+      "month": "Oct",
+      "year": "2021",
+      "details": {
+        "status": "active",
+        "author": {
+          "bool": true,
+          "imageSrc": "assets/img/team/chitvan.JPG",
+          "authName": "speaker",
+          "authInfo": "CyberSec Expert"
+        },
+        "title": "Wait is Over! Tech fest is back!",
+        "body": "lorem hooon mai",
+        "extra": [
+          { "title": "Link", "titleSrc": "http://chitvangarg" },
+          { "title": "Link2", "titleSrc": "http://chitvangarg2" },
+          { "title": "Link", "titleSrc": "http://chitvangarg" }
+        ]
+      }
+      
+    },
+    {
+      "menu": "2",
+      "dayName": "First Day",
+      "date": "27",
+      "month": "Oct",
+      "year": "2021",
+      "details": {
+        "status": "",
+        "author": {
+          "bool": true,
+          "imageSrc": "assets/img/team/chitvan.JPG",
+          "authName": "speaker",
+          "authInfo": "CyberSec Expert"
+        },
+        "title": "Wait is Over! Tech fest is back!",
+        "body": "lorem hooon mai",
+        "extra": [
+          { "title": "Link", "titleSrc": "http://chitvangarg" },
+          { "title": "Link2", "titleSrc": "http://chitvangarg2" },
+          { "title": "Link", "titleSrc": "http://chitvangarg" }
+        ]
+      }
+    }
+  ]
+}
